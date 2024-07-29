@@ -2,9 +2,9 @@ import requests, json, re, os
 
 session = requests.session()
 # 配置用户名（一般是邮箱）
-email = os.environ.get('EMAIL')
+email = os.environ.get('13339361250@163.com')
 # 配置用户名对应的密码 和上面的email对应上
-passwd = os.environ.get('PASSWD')
+passwd = os.environ.get('19980908@Wei')
 # server酱
 SCKEY = os.environ.get('SCKEY')
 
